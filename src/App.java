@@ -1,4 +1,3 @@
-import java.text.Format;
 import java.util.Scanner;
 
 public class App {
@@ -10,6 +9,6 @@ public class App {
         sc.close();
 
         double area = Math.PI * (raio * raio);
-        System.out.print("O valor da area é " + area);
+        System.out.print("O valor da área é " + area);
     }
 }
